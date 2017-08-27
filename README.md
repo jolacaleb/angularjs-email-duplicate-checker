@@ -1,0 +1,1 @@
+# angularjs-email-duplicate-checker
